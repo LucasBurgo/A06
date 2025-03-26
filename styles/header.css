@@ -1,9 +1,9 @@
-header-container {
+.header-container {
     display: flex;
     align-items: center;
 }
 
-header-text {
+.header-text {
     margin-left: 20px;
 }
 
