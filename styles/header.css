@@ -1,11 +1,11 @@
 .header-container {
-    display: flex;
-    align-items: center;
-}
+        		display: flex;
+        		align-items: center;
+        	}
 
-.header-text {
-    margin-left: 20px;
-}
+		.header-text {
+        		margin-left: 20px;
+        	}
 
 header {
     padding-top: 1.5em;
